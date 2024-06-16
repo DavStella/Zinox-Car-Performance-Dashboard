@@ -1,1 +1,3 @@
-# Zinox-Car-Performance-Dashboard
+# Zinox Car Sales Performance Analysis Report
+
+![](cars.jpg)
